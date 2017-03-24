@@ -5,6 +5,7 @@ void Hello(void);
 int main(void)
 {
 	Hello();
+	Hello();
 
 	printf(" sfiasfjsadfj");
 	printf(" I am master Branch");
