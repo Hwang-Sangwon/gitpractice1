@@ -1,8 +1,20 @@
 #include <stdio.h>
 
+void Hello(void);
+
 int main(void)
 {
 	printf("Hello!!! world!!!");
 	printf(" sfiasfjsadfj");
 	return 0;	
+}
+
+
+vod Hello(void)
+{
+	printf("Hello World!");
+printf("Hello World!");
+printf("Hello World!");
+printf("Hello World!");
+printf("Hello World!");
 }
